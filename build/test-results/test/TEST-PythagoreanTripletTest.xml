@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PythagoreanTripletTest" tests="1" skipped="1" failures="0" errors="0" timestamp="2022-08-22T05:39:51" hostname="Sashanks-MacBook-Pro.local" time="0.002">
+  <properties/>
+  <testcase name="tripletsWhoseSumIs1000" classname="PythagoreanTripletTest" time="0.002">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
